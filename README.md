@@ -78,6 +78,16 @@ curl http://localhost:8080 \
 
 Note that it'll only take the content from the last item of `messages`
 
+### On Gasby's settings:
+
+In case you want to try it on GasbyAI.com, complete setting up the server step above. Then:
+
+1. Choose `Custom Service` from `Provider` option
+2. Enter your server endpoint (http://localhost:8080 by default), leave API Key empty
+3. Click test to see if it's good
+
+
+
 ## Disclaimer
 This project is not affiliated with OpenAI in any way. Use at your own risk. I am not responsible for any damage caused by this project. Please read the [OpenAI Terms of Service](https://beta.openai.com/terms) before using this project.
 
