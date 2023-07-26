@@ -79,8 +79,7 @@ curl http://localhost:8080 \
 Note that it'll only take the content from the last item of `messages`
 
 ## Disclaimer
-- This project is not affiliated with OpenAI in any way. Use at your own risk. I am not responsible for any damage caused by this project. Please read the [OpenAI Terms of Service](https://beta.openai.com/terms) before using this project.
-- This project is not built from scratch by me, I just modified, improved and fixed the original code of [pyChatGPT](https://github.com/terry3041/pyChatGPT) since I noticed there were already some PRs and they were not responded to by the terry3041. I also added some new features to the package, and will keep on doing so.
+This project is not affiliated with OpenAI in any way. Use at your own risk. I am not responsible for any damage caused by this project. Please read the [OpenAI Terms of Service](https://beta.openai.com/terms) before using this project.
 
 ## License
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
