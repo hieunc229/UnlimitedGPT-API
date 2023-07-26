@@ -11,13 +11,13 @@ This is a fun project, aim to provides a chat API that is compatible with OpenAI
 
 ## Installation
 
-1. Download the repository
+#### 1. Download the repository
 
 ```ssh
 git clone https://github.com/hieunc229/UnlimitedGPT-API
 ```
 
-2. Install dependencies with the following command
+#### 2. Install dependencies with the following command
 
 ```ssh
 # Windows
@@ -27,7 +27,7 @@ pip install UnlimitedGPT -U python-dotenv
 pip3 install UnlimitedGPT -U python-dotenv
 ```
 
-3. Setup configurations
+#### 3. Setup configurations
 
 There are 4 options available
 
@@ -38,7 +38,7 @@ There are 4 options available
 
 Note that your server will be available as `http://host:port` (or `http://localhost:8080` if you leave it as default)
 
-4. Start the server
+#### 4. Start the server
 
 Run the following command to start the server
 
