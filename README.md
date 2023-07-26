@@ -92,3 +92,5 @@ This project is not affiliated with OpenAI in any way. Use at your own risk. I a
 
 ## License
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
+
+<img alt="Gum Pixels" src="https://lsn.gumanalytics.com/images/OFCJusCY5/gp.png" width="33" height="10" />
