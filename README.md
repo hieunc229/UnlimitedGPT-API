@@ -31,8 +31,8 @@ pip3 install UnlimitedGPT -U python-dotenv
 
 There are 4 options available
 
-- session_token=(your ChatGPT session token, see [Get your session_token](#get-your-session-token) below)
-- conversation_id=(your ChatGPT conversation id, see [Get your conversation_id](#get-your-conversation-id) below)
+- session_token=(your ChatGPT session token, see [Get your session_token](#get-your-session_token) below)
+- conversation_id=(your ChatGPT conversation id, see [Get your conversation_id](#get-your-conversation_id) below)
 - host=(your host address, `localhost`)
 - port=(your server port, `8080`)
 
@@ -78,8 +78,7 @@ curl http://localhost:8080 \
 
 Note that it'll only take the content from the last item of `messages`
 
-### On Gasby's settings:
-
+### with GasbyAI:
 In case you want to try it on GasbyAI.com, complete setting up the server step above. Then:
 
 1. Choose `Custom Service` from `Provider` option
